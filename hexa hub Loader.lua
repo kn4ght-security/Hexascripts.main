@@ -14,7 +14,7 @@ Loader.ScriptURL2 = "https://rblxscripts-getscripts.base44.app/functions/loaderS
 -- Supported Game IDs
 Loader.SupportedGames = {
     ["6035872082"] = "Kn4ght Rivals",
-    ["6447798030"] = "Funky Friday",
+    ["2404080894"] = "Funky Friday",
 }
 
 -- UI Setup
